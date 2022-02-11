@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'AGSouvenirCyr';
+    src: url('AGSouvenirCyrRoman.woff2') format('woff2'),
+        url('AGSouvenirCyrRoman.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'A Font with Serifs';
+    src: url('AFontwithSerifs.woff2') format('woff2'),
+        url('AFontwithSerifs.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ariadna script';
+    src: url('Ariadnascript.woff2') format('woff2'),
+        url('Ariadnascript.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ArnoPro';
+    src: url('ArnoPro-LightDisplay.woff2') format('woff2'),
+        url('ArnoPro-LightDisplay.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
